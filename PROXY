@@ -1,37 +1,35 @@
-host-suffix, ignition.fun, proxy
-host-suffix, appvalleyvip.com, proxy
-host, code.jquery.com, proxy
-host-suffix, iosninja.io, proxy
-host, tutuappapkfree.com, proxy
-host-keyword, mega, proxy
-host, perfops.b-cdn.net, proxy
-host, akamai.perfstack.net, proxy
-host, perfops-ade2.kxcdn.com, proxy
-host, ovhcdn.perfstack.net, proxy
-host, lei-su.me, proxy
-host, www.astrill.com, proxy
-host, lightstep.medium.systems, proxy
-host-keyword, cloudfront, proxy
-host-suffix, cordcloud.site, proxy
-host-suffix, cordcloud.xyz, proxy
-host-suffix, v2ex.com, proxy
-host-suffix, v2ex.co, proxy
-host-suffix, ax1x.com, proxy
-host-suffix, gravatar.com, proxy
-host, ark.to, proxy
-host-suffix, githubassets.com, proxy
-host-keyword, vimeocdn, proxy
-host, fresnel.vimeocdn.com, proxy
-host-suffix, akamaized.net, proxy
-host-suffix, fontawesome.com, proxy
-host-suffix, llmm.net, proxy
-host-suffix, olo91.me, proxy
-host-suffix, a875239.me, proxy
-host-suffix, weipa.ch, proxy
-host, servers.xeton.dev, proxy
-host, emby-best.xeton.dev, proxy
-host, movie.xeton.dev, proxy
-host, www.yb450.app, reject
-host, mu.qqxy100.com, direct
-host, kodi.xeton.dev, proxy
-host-keyword, xvideos, proxy
+DOMAIN-SUFFIX,ignition.fun
+DOMAIN-SUFFIX,appvalleyvip.com
+DOMAIN,code.jquery.com
+DOMAIN-SUFFIX,iosninja.io
+DOMAIN,tutuappapkfree.com
+DOMAIN-KEYWORD,mega
+DOMAIN,perfops.b-cdn.net
+DOMAIN,akamai.perfstack.net
+DOMAIN,perfops-ade2.kxcdn.com
+DOMAIN,ovhcdn.perfstack.net
+DOMAIN,lei-su.me
+DOMAIN,www.astrill.com
+DOMAIN,lightstep.medium.systems
+DOMAIN-KEYWORD,cloudfront
+DOMAIN-SUFFIX,cordcloud.site
+DOMAIN-SUFFIX,cordcloud.xyz
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,v2ex.co
+DOMAIN-SUFFIX,ax1x.com
+DOMAIN-SUFFIX,gravatar.com
+DOMAIN,ark.to
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-KEYWORD,vimeocdn
+DOMAIN,fresnel.vimeocdn.com
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,fontawesome.com
+DOMAIN-SUFFIX,llmm.net
+DOMAIN-SUFFIX,olo91.me
+DOMAIN-SUFFIX,a875239.me
+DOMAIN-SUFFIX,weipa.ch
+DOMAIN,servers.xeton.dev
+DOMAIN,movie.xeton.dev
+DOMAIN,mu.qqxy100.com
+DOMAIN,kodi.xeton.dev
+DOMAIN-KEYWORD,xvideos
