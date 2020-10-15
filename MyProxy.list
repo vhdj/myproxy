@@ -8,12 +8,10 @@ DOMAIN,perfops.b-cdn.net
 DOMAIN,akamai.perfstack.net
 DOMAIN,perfops-ade2.kxcdn.com
 DOMAIN,ovhcdn.perfstack.net
-DOMAIN,lei-su.me
 DOMAIN,www.astrill.com
 DOMAIN,lightstep.medium.systems
 DOMAIN-KEYWORD,cloudfront
 DOMAIN-SUFFIX,cordcloud.site
-DOMAIN-SUFFIX,cordcloud.xyz
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,v2ex.co
 DOMAIN-SUFFIX,ax1x.com
@@ -28,10 +26,7 @@ DOMAIN-SUFFIX,llmm.net
 DOMAIN-SUFFIX,olo91.me
 DOMAIN-SUFFIX,a875239.me
 DOMAIN-SUFFIX,weipa.ch
-DOMAIN,servers.xeton.dev
-DOMAIN,movie.xeton.dev
 DOMAIN,mu.qqxy100.com
-DOMAIN,kodi.xeton.dev
 DOMAIN-KEYWORD,xvideos
 DOMAIN,xn--mesr8b36x.com
 DOMAIN-KEYWORD,github
