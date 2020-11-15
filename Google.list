@@ -38,6 +38,7 @@ DOMAIN-SUFFIX,dl.l.google.com
 DOMAIN-SUFFIX,docs.google.com
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,drive.google.com
+DOMAIN-SUFFIX,id.google.com
 DOMAIN-SUFFIX,firebase-settings.crashlytics.com
 DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,fonts.googleapis.com
@@ -81,6 +82,7 @@ DOMAIN-SUFFIX,khmdb.google.com
 DOMAIN-SUFFIX,khmdb.googleapis.com
 DOMAIN-SUFFIX,play.googleapis.com
 DOMAIN-SUFFIX,photos.googleapis.com
+DOMAIN-SUFFIX,firebaseinstallations.googleapis.com:443
 DOMAIN-SUFFIX,oauthaccountmanager.googleapis.com
 DOMAIN-SUFFIX,notifications-pa.googleapis.com
 DOMAIN-SUFFIX,people-pa.googleapis.com
