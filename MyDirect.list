@@ -39,3 +39,6 @@ DOMAIN-SUFFIX,localnetwork.uop
 DOMAIN,stats.umsns.com
 DOMAIN,apapia-history.manmanbuy.com
 DOMAIN-SUFFIX,jddebug.com
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflarestream.com
+DOMAIN-SUFFIX,videodelivery.net
