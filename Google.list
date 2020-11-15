@@ -80,12 +80,14 @@ DOMAIN-SUFFIX,khm3.googleapis.com
 DOMAIN-SUFFIX,khmdb.google.com
 DOMAIN-SUFFIX,khmdb.googleapis.com
 DOMAIN-SUFFIX,play.googleapis.com
-DOMAIN-SUFFIX,photos.googleleapis.com
+DOMAIN-SUFFIX,photos.googleapis.com
 DOMAIN-SUFFIX,oauthaccountmanager.googleapis.com
 DOMAIN-SUFFIX,notifications-pa.googleapis.com
 DOMAIN-SUFFIX,people-pa.googleapis.com
 DOMAIN-SUFFIX,photosdata-pa.googleapis.com
 DOMAIN-SUFFIX,www.googleapis.com
+DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
+DOMAIN-SUFFIX,calendar.google.com
 DOMAIN-SUFFIX,madewithcode.com
 DOMAIN-SUFFIX,material.io
 DOMAIN-SUFFIX,ocsp.pki.goog
