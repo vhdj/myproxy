@@ -44,6 +44,7 @@ DOMAIN-SUFFIX,accounts.google.com
 DOMAIN-SUFFIX,dns.google.com
 DOMAIN-SUFFIX,apis.google.com
 DOMAIN-SUFFIX,photos.google.com
+DOMAIN-SUFFIX,inbox.google.com
 DOMAIN-SUFFIX,cast.google.com
 DOMAIN-SUFFIX,gboard.app.goo.gl
 DOMAIN-SUFFIX,firebase-settings.crashlytics.com
